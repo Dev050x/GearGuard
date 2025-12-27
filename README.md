@@ -405,27 +405,4 @@ npm run preview  # Preview production build
 - Service provider directory
 - Warranty expiration tracking
 
----
-
-## Troubleshooting
-
-### Database Connection Error
-- Verify PostgreSQL is running
-- Check `DATABASE_URL` in `.env` file
-- Ensure database `gearguard` exists
-- Verify username and password are correct
-
-### Port Already in Use
-- Change `PORT` in backend `.env` file
-- Frontend: Vite will auto-assign next available port
-
-### JWT Token Invalid
-- Check `JWT_SECRET` matches in `.env`
-- Verify token hasn't expired (7 days)
-- Clear localStorage and login again
-
-### CORS Errors
-- Ensure backend CORS middleware is enabled
-- Verify frontend `API_URL` points to correct backend
-- Check backend server is running
 
