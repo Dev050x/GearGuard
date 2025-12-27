@@ -17,3 +17,4 @@ pnpm-debug.log*
 
 # Environment variables
 .env
+/src/generated/prisma
