@@ -405,4 +405,14 @@ npm run preview  # Preview production build
 - Service provider directory
 - Warranty expiration tracking
 
+## 👨‍💻 Author
+
+**Div Patel**  
+- 🌐 GitHub: [Dev050x](https://github.com/Divpatel4081)  
+- 💼 LinkedIn: [Div Patel](https://www.linkedin.com/in/div-patel-0700a2214/)  
+- 📧 Email: divpatel4081@gmail.com  
+
+---
+
+This project is built as part of an interview assignment.
 
